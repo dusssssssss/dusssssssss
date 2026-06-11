@@ -20,20 +20,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dusLayer.dusLayer&"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://discord.com/users/743125320890056715" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=flat" height="25" />
-  </a>
-  <a href="https://www.youtube.com/@dusRR" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=flat" height="25" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31d7sacopwqur5zwhrlrmiy7562q">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d7sacopwqur5zwhrlrmiy7562q&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
