@@ -22,11 +22,11 @@
 ---
 ```log
 logs:
-[2026-08-30 16:02:14] [+] Programming with C++/C, Python
+[2026-08-30 16:02:14] [+] Programming with C++/C, Python, C#, JavaScript, Sql & some Structure languages Html, CSS
 [2026-08-30 16:02:16] [+] Reverse Engineering with IDA Pro, x64dbg
-[2026-08-30 16:03:30] [=] Developing & learning with Drivers
+[2026-08-30 16:03:30] [=] Doing that for 8+ years
 ```
 ---
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dusssssssss.dusssssssss&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=0xdus.0xdus&"  />
 </div>
